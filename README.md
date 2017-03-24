@@ -6,3 +6,4 @@ this is a mistake
 =======
 -fix-B
 -feature-A
+-faeature-C
